@@ -13,6 +13,7 @@ class MyDocument extends Document {
                 integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ=="
                 crossOrigin="anonymous" referrerPolicy="no-referrer"></script>
 <title>C17AN's Devlog</title>
+
 <meta charSet="utf-8"></meta>
         </Head>
         <body>
